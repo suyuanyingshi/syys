@@ -1,0 +1,5 @@
+a:focus, a:hover{text-decoration: none !important;}
+#topInfo{display: none !important;}
+.float-menu .sys-message{ display: none !important; }
+.float-menu .qr-code{ display: none !important; }
+.float-menu .item:last-child{ border-radius: 6px !important; }
