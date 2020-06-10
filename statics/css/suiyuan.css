@@ -1,3 +1,4 @@
+a{ color: #f44336; }
 a:focus, a:hover{text-decoration: none !important;}
 #topInfo{display: none !important;}
 .float-menu .sys-message{ display: none !important; }
